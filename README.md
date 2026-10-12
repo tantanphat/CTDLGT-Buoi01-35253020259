@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BÀI THỰC HÀNH 01 – CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT
 
 ## 1. Thông tin sinh viên
@@ -74,4 +73,3 @@ Thực nghiệm Bài 3 với các kích thước mảng `100`, `1000` và `10000
 Tôi đã sử dụng ChatGPT để giải thích thuật toán, viết README, hỗ trợ xây dựng và kiểm tra mã nguồn. Tôi đã chạy thử chương trình và chịu trách nhiệm về kết quả nộp bài.
 =======
 # CTDLGT-Buoi01-35253020259
->>>>>>> dedfd617473d68b4e11b177680d4c9da9e8e2bf5
